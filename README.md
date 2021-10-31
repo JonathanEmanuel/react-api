@@ -13,3 +13,6 @@ En el directorio del proyecto ejecutar:
 Ejecuta la aplicación en modo de desarrollo.
 Abrir [http://localhost:3000/](http://localhost:3000/) para verlo en el navegador.
 
+## Recursos
+- Logo: https://worldvectorlogo.com/logo/pokemon-23
+- API: [https://pokeapi.co](https://pokeapi.co) 
